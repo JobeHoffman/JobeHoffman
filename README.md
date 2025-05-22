@@ -2,7 +2,7 @@
 - 👀 I’m interested in interacting with hardware from a software perspective
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on open source software
-- 📫 How to reach me ...
+- 📫 How to reach me: via the email connected to this account
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can do a split
 
